@@ -1,4 +1,4 @@
-# Simran's First CS 193 Homework
+# Simran's First CS193 Homework
 
 - Funny lectures
 - Great resource
